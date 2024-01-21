@@ -1,0 +1,14 @@
+D:\vs2022\project\playcode\playcode\bin\Debug\net6.0\playcode.exe
+D:\vs2022\project\playcode\playcode\bin\Debug\net6.0\playcode.deps.json
+D:\vs2022\project\playcode\playcode\bin\Debug\net6.0\playcode.runtimeconfig.json
+D:\vs2022\project\playcode\playcode\bin\Debug\net6.0\playcode.dll
+D:\vs2022\project\playcode\playcode\bin\Debug\net6.0\playcode.pdb
+D:\vs2022\project\playcode\playcode\obj\Debug\net6.0\playcode.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs2022\project\playcode\playcode\obj\Debug\net6.0\playcode.AssemblyInfoInputs.cache
+D:\vs2022\project\playcode\playcode\obj\Debug\net6.0\playcode.AssemblyInfo.cs
+D:\vs2022\project\playcode\playcode\obj\Debug\net6.0\playcode.csproj.CoreCompileInputs.cache
+D:\vs2022\project\playcode\playcode\obj\Debug\net6.0\playcode.dll
+D:\vs2022\project\playcode\playcode\obj\Debug\net6.0\refint\playcode.dll
+D:\vs2022\project\playcode\playcode\obj\Debug\net6.0\playcode.pdb
+D:\vs2022\project\playcode\playcode\obj\Debug\net6.0\playcode.genruntimeconfig.cache
+D:\vs2022\project\playcode\playcode\obj\Debug\net6.0\ref\playcode.dll
